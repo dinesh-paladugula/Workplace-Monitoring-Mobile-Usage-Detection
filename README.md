@@ -43,28 +43,7 @@ Manual monitoring of mobile phone usage in professional environments is inconsis
 | Python             | Core development language            |
 | Jupyter Notebook   | Model development and experimentation |
 | OpenCV             | Video/image processing               |
-
----
-
-## 📁 Project Structure
-
-```
-workplace-mobile-detection/
-│
-├── notebooks/
-│   └── mobile_usage_detection.ipynb   # Model development, training & evaluation
-│
-├── models/
-│   └── mobile_detection_v2/           # Fine-tuned model weights
-│
-├── data/
-│   └── sample_images/                 # Sample annotated images
-│
-├── results/
-│   └── metrics_screenshot.png         # Validation metrics from Roboflow
-│
-└── README.md
-```
+| Ultralytics        | YOLO            |
 
 ---
 
